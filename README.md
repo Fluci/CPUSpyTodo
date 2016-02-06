@@ -26,6 +26,6 @@ UX
 - [ ] Allow to reopen window
 - [ ] Clean up app menu
 - [ ] Add Tool Tips to every UI element
-
+- [ ] if viewRefresh deactivated: show tip in processTable
 
 
