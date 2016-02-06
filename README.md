@@ -7,7 +7,9 @@ Todo list of CPU Spy
 - [ ] Trigger alarm based on cpu usage within timeinterval
 
 # Refactor
-- [ ] Think about FSPSSampler -> separate Tokenizer and make RowReader an Interface
+- [ ] Think about changing FSString to a struct type
+- [ ] Think about UTF-32 and FSString
+- [x] Think about FSPSSampler -> separate Tokenizer and make RowReader an Interface
 
 # Bug Fixes
 - [ ] Review timing code
@@ -23,10 +25,13 @@ icon customization:
 - [ ] Categories, category colors
 - [ ] font size, font type
 
-UX
+# UX
 - [ ] Allow to reopen window
 - [ ] Clean up app menu
 - [ ] Add Tool Tips to every UI element
 - [ ] if viewRefresh deactivated: show tip in processTable
+- 
+# Future
+- [ ] Observe processes and compare with white/black list -> alarm
 
 
