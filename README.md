@@ -2,7 +2,7 @@
 Todo list of CPU Spy
 
 # Featuers
-- [ ] Battery mode
+- [x] Battery mode
 - [ ] Stop sampling at battery level threshold.
 
 # Refactor
