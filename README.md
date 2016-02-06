@@ -4,6 +4,7 @@ Todo list of CPU Spy
 # Featuers
 - [x] Battery mode
 - [ ] Stop sampling at battery level threshold.
+- [ ] Trigger alarm based on cpu usage within timeinterval
 
 # Refactor
 - [ ] Think about FSPSSampler -> separate Tokenizer and make RowReader an Interface
