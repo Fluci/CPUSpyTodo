@@ -26,8 +26,8 @@ icon customization:
 - [ ] font size, font type
 
 # UX
-- [ ] Allow to reopen window
-- [ ] Clean up app menu
+- [x] Allow to reopen window
+- [x] Clean up app menu
 - [ ] Add Tool Tips to every UI element
 - [ ] if viewRefresh deactivated: show tip in processTable
 - [ ] Undo/Redo
