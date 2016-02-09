@@ -30,7 +30,7 @@ icon customization:
 - [x] Clean up app menu
 - [ ] Add Tool Tips to every UI element
 - [ ] if viewRefresh deactivated: show tip in processTable
-- [ ] Undo/Redo
+- [x] Undo/Redo
 
 # Future
 - [ ] Observe processes and compare with white/black list -> alarm
