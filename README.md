@@ -17,7 +17,7 @@ Todo list of CPU Spy
 
 # Clean code
 
-- [ ] Replace NSLogs with debugPrint if appropriate
+- [x] Replace NSLogs with debugPrint if appropriate
 
 # Settings
 icon customization:
@@ -29,7 +29,7 @@ icon customization:
 - [x] Allow to reopen window
 - [x] Clean up app menu
 - [ ] Add Tool Tips to every UI element
-- [ ] if viewRefresh deactivated: show tip in processTable
+- [x] if viewRefresh deactivated: show tip in processTable
 - [x] Undo/Redo
 
 # Future
