@@ -12,8 +12,8 @@ Todo list of CPU Spy
 - [x] Think about FSPSSampler -> separate Tokenizer and make RowReader an Interface
 
 # Bug Fixes
-- [ ] Review timing code
-- [ ] Investigate suddenly high timeinterval
+- [x] Review timing code
+- [x] Investigate suddenly high timeinterval
 
 # Clean code
 
