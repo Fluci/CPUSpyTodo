@@ -28,7 +28,7 @@ icon customization:
 # UX
 - [x] Allow to reopen window
 - [x] Clean up app menu
-- [ ] Add Tool Tips to every UI element
+- [x] Add Tool Tips to every UI element
 - [x] if viewRefresh deactivated: show tip in processTable
 - [x] Undo/Redo
 
